@@ -6,7 +6,7 @@ module "develop" {
     AccountName               = "develop-aft"
     ManagedOrganizationalUnit = "Learn AFT"
     SSOUserEmail              = "jefferson22alcantara@hotmail.com"
-    SSOUserFirstName          = "develop"
+    SSOUserFirstName          = "develop-aft"
     SSOUserLastName           = "AFT"
   }
 
