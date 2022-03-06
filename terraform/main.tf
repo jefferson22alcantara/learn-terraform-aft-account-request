@@ -3,10 +3,10 @@ module "develop" {
 
   control_tower_parameters = {
     AccountEmail              = "jefferson22alcantara@hotmail.com"
-    AccountName               = "develop-aft"
+    AccountName               = "homolog-aft"
     ManagedOrganizationalUnit = "Learn AFT"
     SSOUserEmail              = "jefferson22alcantara@hotmail.com"
-    SSOUserFirstName          = "develop-aft"
+    SSOUserFirstName          = "homolog-aft"
     SSOUserLastName           = "AFT"
   }
 
@@ -23,5 +23,5 @@ module "develop" {
     group = "non-prod"
   }
 
-  account_customizations_name = "develop"
+  account_customizations_name = "homolog"
 }
