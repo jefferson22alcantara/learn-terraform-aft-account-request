@@ -8,8 +8,9 @@ module "develop" {
     SSOUserEmail              = "jefferson22alcantara@gmail.com"
     SSOUserFirstName          = "homolog-aft"
     SSOUserLastName           = "AFT"
-  }
 
+
+  }
   account_tags = {
     "Learn Tutorial" = "AFT"
   }
