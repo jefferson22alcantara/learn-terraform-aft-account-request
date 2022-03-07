@@ -54,5 +54,5 @@ module "homolog-02" {
     group = "non-prod"
   }
 
-  account_customizations_name = "homolog-02"
+  account_customizations_name = "sandbox"
 }
