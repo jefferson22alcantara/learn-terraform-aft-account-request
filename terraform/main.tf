@@ -2,10 +2,10 @@ module "develop" {
   source = "./modules/aft-account-request"
 
   control_tower_parameters = {
-    AccountEmail              = "jefferson22alcantara@hotmail.com"
+    AccountEmail              = "jefferson22alcantara@gmail.com"
     AccountName               = "homolog-aft"
     ManagedOrganizationalUnit = "Learn AFT"
-    SSOUserEmail              = "jefferson22alcantara@hotmail.com"
+    SSOUserEmail              = "jefferson22alcantara@gmail.com"
     SSOUserFirstName          = "homolog-aft"
     SSOUserLastName           = "AFT"
   }
